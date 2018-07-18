@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 15
-  productGUID: 00000000000000000000000000000000
+  productGUID: e7729ed0f382e4971a9cb33b0c232003
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -731,7 +731,7 @@ PlayerSettings:
   facebookSdkVersion: 7.9.1
   apiCompatibilityLevel: 2
   cloudProjectId: 30e9c878-bb8d-4d60-8cd3-27af68e53d7f
-  projectName: Space Shooter
+  projectName: GameTutorial
   organizationId: rottentomato
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
